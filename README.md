@@ -32,7 +32,7 @@ The Django Todo App is a simple yet effective task management web application bu
 
 2. Run the application:
 ```
-python manage.py runserver
+   python manage.py runserver
 ```
 3. Access the Todo App at http://localhost:8000 in your web browser.
 4. Customize the project to fit your specific task management needs or add additional features.
